@@ -1,0 +1,30 @@
+.header {
+        background-image: url("../Banner\ Image.png");
+        background-size: cover;
+        height: 600px;
+        background-position: center;
+        margin: 50px 90px 0 90px;
+        padding: 5px 5px;
+        border-radius: 16px;
+        
+       
+    }
+    .header-text{
+        margin-left: 50px;
+        margin-top: 160px;
+        text-align: center;
+        
+    }
+    .sajeeb{
+        margin-left: 50px;
+        color: white;
+        font-size: 30px;
+        text-align: center;
+    
+    }
+    .payel{
+        margin-top: 10px;
+        font-size: 60px;
+        color: #FFF;
+    }
+    
