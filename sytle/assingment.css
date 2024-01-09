@@ -6,6 +6,8 @@
     margin: 50px 90px 0 90px;
     padding: 5px 5px;
     border-radius: 16px;
+    border-radius: 16px;
+
 }
 
 .header-text {
@@ -30,6 +32,7 @@
 
 .section {
     height: 600px;
+    
 }
 
 .section-one {
@@ -67,9 +70,12 @@
 .section-4 {
     width: 100px;
     height: 500px;
-    margin-left: 100px;
+    margin-left: 920px;
     position: absolute;
     margin-bottom: 100px;
+    margin-top: 100px;
+    
+    
 
 }
 
@@ -77,13 +83,15 @@
     background-image: url(../Vectorrr.png);
     background-size: cover;
     height: 600px;
-    width: 100%;
+    width: 1350px;
     background-position: center;
     margin-top: 400px;
     margin-left: 50px;
     margin-right: 50px;
     border: 2px solid black;
     border-radius: 60px 60px;
+    display: flex;
+
 }
 
 .people-1 {
@@ -110,21 +118,18 @@
 
 
 .location {
-    background: linear-gradient(
-      180deg,
-      rgba(255, 0, 0, 0.05) 0%,
-      rgba(255, 0, 0, 0) 100%
-    )
-    no-repeat center;
-  width: 1320px;
-  height: 450px;
-  margin: 130px auto;
-  border-radius: 16px;
-  align-items: center;
+    background: linear-gradient(180deg,
+            rgba(255, 0, 0, 0.05) 0%,
+            rgba(255, 0, 0, 0) 100%) no-repeat center;
+    width: 1320px;
+    height: 450px;
+    margin: 130px auto;
+    border-radius: 16px;
+    align-items: center;
 
 }
 
-.location-1{
+.location-1 {
     align-items: center;
     margin-left: 530px;
     padding-top: 35px;
@@ -147,6 +152,49 @@
     padding: 16px 32px;
     justify-content: center;
     align-items: center;
- 
     background: #F00;
+}
+.offer{
+    height:700px;
+    width: 1200px;
+    /* margin: 50px 90px 0 90px; */
+    margin: 100px auto;
+    /* padding: 5px 5px; */
+    border-radius: 16px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.offer-1{
+    
+}
+.offer-2{
+    color: #F00;
+    font-size: 24px;
+    
+}
+.offer-3{
+    color: #070211;
+    font-size: 48px;
+    margin-top: 30px;
+}
+.offer-4{
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.60);
+}
+.naimul img{
+    border: 16px solid red;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.rion-1{
+    color: #F00;
+    font-size: 48px;
+    
+}
+.rion-2{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
 }
