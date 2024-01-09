@@ -32,7 +32,7 @@
 
 .section {
     height: 600px;
-    
+
 }
 
 .section-one {
@@ -74,8 +74,8 @@
     position: absolute;
     margin-bottom: 100px;
     margin-top: 100px;
-    
-    
+
+
 
 }
 
@@ -154,8 +154,9 @@
     align-items: center;
     background: #F00;
 }
-.offer{
-    height:700px;
+
+.offer {
+    height: 500px;
     width: 1200px;
     /* margin: 50px 90px 0 90px; */
     margin: 100px auto;
@@ -164,37 +165,92 @@
     border-radius: 16px;
     display: flex;
     justify-content: space-between;
-    
+
+
 }
-.offer-1{
-    
-}
-.offer-2{
+
+.offer-2 {
     color: #F00;
     font-size: 24px;
-    
+
 }
-.offer-3{
+
+.offer-3 {
     color: #070211;
     font-size: 48px;
     margin-top: 30px;
 }
-.offer-4{
+
+.offer-4 {
     line-height: 32px;
     color: rgba(7, 2, 17, 0.60);
 }
-.naimul img{
+
+.naimul img {
     border: 16px solid red;
     border-radius: 50%;
     padding: 20px;
 }
 
-.rion-1{
+.rion-1 {
     color: #F00;
     font-size: 48px;
-    
+
 }
-.rion-2{
+
+.rion-2 {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
+}
+
+
+.rafi {
+    height: 100px;
+    width: 1320px;
+    margin-bottom: 200px;
+    /* padding-bottom: 400px; */
+
+}
+.rafi-1{
+    margin-left: 140px;
+    
+
+}
+
+.rafi-2 {
+    color: #F00;
+    font-size: 24px;
+}
+
+.rafi-3 {
+    color: #070211;
+    font-size: 48px;
+}
+
+.rafi-4 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+}
+.container{
+    height: 500px;
+}
+.container-title-1{
+    margin-left: 140px;
+    display: flex;
+    gap: 24px;
+    
+
+}
+
+.container-title-2{
+    margin-left: 140px;
+    display: flex;
+    gap: 24px;
+    padding-top: 24px;
+    padding-bottom: 70px;
+
+}
+.al-amin{
+    height: 500px;
+    width: 1200px;
 }
