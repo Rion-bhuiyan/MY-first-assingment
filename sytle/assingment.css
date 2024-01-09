@@ -211,9 +211,9 @@
     /* padding-bottom: 400px; */
 
 }
-.rafi-1{
+
+.rafi-1 {
     margin-left: 140px;
-    
 
 }
 
@@ -231,26 +231,136 @@
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
 }
-.container{
-    height: 500px;
-}
-.container-title-1{
+
+.container {
+    /* height: 500px; */
     margin-left: 140px;
-    display: flex;
+    display: grid;
+    flex-wrap: rap;
     gap: 24px;
+    padding-bottom: 80px;
+    grid-template-columns:repeat(3,1fr) ;
+}
+
+.al-amin {
+    background-color: rgba(255, 0, 0, 0.05);
+    height: 600px;
+    width: 1200px;
+    text-align: center;
+    margin: 50px 50px 50px;
+    margin-left: 120px;
+    width: 1330px;
+}
+
+.al-amin-1 {
+    padding-top: 50px;
+}
+
+.al-amin-2 {
+    color: #070211;
+    font-size: 48px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.al-amin-3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+}
+
+.al-amin-4 {
+    width: 648px;
+    height: 72px;
+    margin-left: 350px;
+}
+
+.al-amin-5 {
+    color: #FFF;
+    text-align: center;
+    /* font-family: Inter; */
+    font-size: 20px;
+    /* font-style: normal; */
+    /* font-weight: 600; */
+    /* line-height: normal; */
+    /* text-transform: capitalize; */
+    width: 120px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    margin-top: 30px;
     
 
 }
-
-.container-title-2{
-    margin-left: 140px;
-    display: flex;
-    gap: 24px;
-    padding-top: 24px;
-    padding-bottom: 70px;
-
-}
-.al-amin{
+.bio{
+    background-color: #070211;
     height: 500px;
     width: 1200px;
+    margin-left: 130px;
 }
+.bio-2{
+    color: #FFF;
+    font-size: 20px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.bio-3{
+    color: #FFF;
+    font-size: 24px;
+    padding-left: 100px;
+    /* padding-bottom: 120px; */
+    padding-top: 260px;
+    
+}
+.bio-4{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: -170px;
+}
+.bio-5{
+    padding-left: 24px;
+}
+.bio-6{
+    padding-left: 24px;
+}
+
+.bio-6{
+    padding-left: 24px;
+}
+
+
+.bio-7{
+    padding-left: 24px;
+
+
+}
+.bio-8{
+    padding-left: 24px;
+
+}
+.bio-9{
+    color: white;
+    font-size: 24px;
+    padding-left: 900px;
+    padding-bottom: 500px;
+    /* padding-top: -300px; */
+    margin-top: -220px;
+
+}
+.blog-10{
+    
+
+}
+.bio.11{
+
+}
+.bio-12{
+    /* padding-right: 50px; */
+    /* padding-bottom: 500px; */
+    padding-left: 1000px;
+    padding-top: -30px;
+    margin-top: -250px;
+    color: white;
+}
+
